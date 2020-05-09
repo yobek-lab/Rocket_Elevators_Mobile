@@ -1,6 +1,4 @@
-# Rocket_Elevators_Mobile
-
- Odyssey Week 13 - Multiplying Experiences
+# Odyssey Week 13 : Rocket_Elevators_Mobile
 
 
   -  Login screen where you can input a valid email to login into the app onto the home screen.
@@ -10,10 +8,10 @@
 
  * URL : https://expo.io/@yoke/rocket_elevator_react
   
- * Login :
+ Login :
  - Click the link above to test the project by downloading it with expo or "open project in browser"
 
- * Employees' accounts for login:
+ Employees' accounts for login:
 
  - Admin | admin@example.com
  - Younes | y.bekkali@gmail.com
@@ -24,8 +22,8 @@
 -  Antoine Deblonde | antoine.deblonde@keyrus.ca
 -  Ibrahim Mahamane | imahamaneissa@gmail.com
 
-* Rest API link:
- URL: https://rocketelvatorsapi.azurewebsites.net/api/employee/all
+Rest API link:
+ - URL: https://rocketelvatorsapi.azurewebsites.net/api/employee/all
 
 * GraphQL : (extra mile)
  - URL Link: https://rocket-elevs-graphql.herokuapp.com/graphql 
