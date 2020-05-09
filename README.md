@@ -15,14 +15,14 @@
 
  * Employees' accounts for login:
 
- Admin | admin@example.com
- Younes | y.bekkali@gmail.com
- Mathieu Houde | mathieu.houde@codeboxx.biz
- Patrick Thibault | tiboclan@gmail.com
- Philippe Motillon | philippe.motillon@keyrus.ca
- Khalid Kjado | kdjado@gmail.com
- Antoine Deblonde | antoine.deblonde@keyrus.ca
- Ibrahim Mahamane | imahamaneissa@gmail.com
+ - Admin | admin@example.com
+ - Younes | y.bekkali@gmail.com
+ -  Mathieu Houde | mathieu.houde@codeboxx.biz
+ - Patrick Thibault | tiboclan@gmail.com
+ - Philippe Motillon | philippe.motillon@keyrus.ca
+-  Khalid Kjado | kdjado@gmail.com
+-  Antoine Deblonde | antoine.deblonde@keyrus.ca
+-  Ibrahim Mahamane | imahamaneissa@gmail.com
 
 * Rest API link:
  URL: https://rocketelvatorsapi.azurewebsites.net/api/employee/all
