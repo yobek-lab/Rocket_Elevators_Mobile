@@ -6,7 +6,7 @@
 
  Click the link above to test the project by downloading it with expo or "open project in browser"
 
- Employee account for login
+ Employees' accounts for login:
 
  Admin | admin@example.com
  Younes | y.bekkali@gmail.com
@@ -17,4 +17,14 @@
  Antoine Deblonde | antoine.deblonde@keyrus.ca
  Ibrahim Mahamane | imahamaneissa@gmail.com
 
+Rest API link:
  URL: https://rocketelvatorsapi.azurewebsites.net/api/employee/all
+
+ GraphQL : (extra mile)
+ URL Link: https://rocket-elevs-graphql.herokuapp.com/graphql
+ Prjoect using GraphQl repo: 
+ 
+ 
+ TDD: (extra mile)
+ testing : yarn test
+ coverage: yarn test --coverage
