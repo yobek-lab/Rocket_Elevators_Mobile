@@ -40,6 +40,8 @@ const ActiveElevators = (props) => {
                     <FlatList
                         showsVerticalScrollIndicator={false}
                         keyExtract={elevators => elevators.id}
+                        //keyExtract={elevators => elevators.id.toString()}
+                        //keyExtractor = { (item, index) => index.toString() };
                         data={elevators}
                         renderItem={({ item }) => {
                             return <TouchableOpacity style={styles.elevatorList} onPress={() => StatusScreen(item.id, item.status)}><Text style={styles.textStyle}> Elevator # {item.id} is "{item.status}"</Text></TouchableOpacity>;
