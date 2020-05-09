@@ -32,7 +32,7 @@ const HomePage = (props) => {
                 </TouchableOpacity>
 
             </View>
-            {/* </ImageBackground> */}
+          
         </View >
     )
 }
@@ -40,7 +40,7 @@ const HomePage = (props) => {
 const styles = {
     container: {
         flex: 1,
-        marginTop: Platform.OS === "android" ? 24 : 0
+        //marginTop: Platform.OS === "android" ? 24 : 0
     },
     viewStyle: {
         flex: 1,
