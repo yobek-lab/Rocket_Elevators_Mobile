@@ -1,6 +1,6 @@
 # Rocket_Elevators_Mobile
 
-Odyssey Week 13 - Multiplying Experiences
+Odyssey Week 13 - Mobile App
 
 URL : https://expo.io/@yoke/rocket_elevator_react
 
