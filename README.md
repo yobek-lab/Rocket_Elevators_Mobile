@@ -29,7 +29,7 @@
 
 * GraphQL : (extra mile)
  URL Link: https://rocket-elevs-graphql.herokuapp.com/graphql
- Prjoect using GraphQl repo: 
+ Prjoect using GraphQl repo: working on it during the weekend
  
  
 * TDD: (extra mile)
