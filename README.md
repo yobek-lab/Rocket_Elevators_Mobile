@@ -3,15 +3,15 @@
  Odyssey Week 13 - Multiplying Experiences
 
 
-  -  Login screen where you can input a valid email to login into the app onto the home screen
-  -  Home screen with lists of all non-active and active elevators  : clickable and               differentiable
-  -  Once an elevator is clicked, it brings us to a screen (the status screen) where you          can set the status back to active/inactive
+  -  Login screen where you can input a valid email to login into the app onto the home screen.
+  -  Home screen with lists of all non-active and active elevators  : clickable and differentiable.
+  -  Once an elevator is clicked, it brings us to a screen (the status screen) where you can set the status back to     active/inactive.
 
 
  * URL : https://expo.io/@yoke/rocket_elevator_react
   
  * Login :
- Click the link above to test the project by downloading it with expo or "open project in browser"
+ - Click the link above to test the project by downloading it with expo or "open project in browser"
 
  * Employees' accounts for login:
 
@@ -28,10 +28,10 @@
  URL: https://rocketelvatorsapi.azurewebsites.net/api/employee/all
 
 * GraphQL : (extra mile)
- URL Link: https://rocket-elevs-graphql.herokuapp.com/graphql
- Prjoect using GraphQl repo: working on it during the weekend
+ - URL Link: https://rocket-elevs-graphql.herokuapp.com/graphql 
+ - Prjoect using GraphQl repo: working on it during the weekend
  
  
 * TDD: (extra mile)
- testing : yarn test
- coverage: yarn test --coverage
+ - testing : yarn test
+ - coverage: yarn test --coverage
