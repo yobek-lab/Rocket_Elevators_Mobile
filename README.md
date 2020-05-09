@@ -25,11 +25,11 @@
 Rest API link:
  - URL: https://rocketelvatorsapi.azurewebsites.net/api/employee/all
 
-* GraphQL : (extra mile)
+GraphQL API: (extra mile)
  - URL Link: https://rocket-elevs-graphql.herokuapp.com/graphql 
  - Prjoect using GraphQl repo: working on it during the weekend
  
  
-* TDD: (extra mile)
+TDD: (extra mile)
  - testing : yarn test
  - coverage: yarn test --coverage
