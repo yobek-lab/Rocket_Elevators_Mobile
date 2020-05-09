@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      Object {
+        "flex": 1,
+        "justifyContent": "center",
+        "resizeMode": "cover",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../assets/home.jpeg",
+        }
+      }
+      style={
+        Array [
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          Object {
+            "height": undefined,
+            "width": undefined,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "marginTop": 0,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "testUri": "../../../assets/R2.png",
+          }
+        }
+        style={
+          Object {
+            "height": 159,
+            "marginBottom": 30,
+            "resizeMode": "contain",
+            "width": 305,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "fontSize": 20,
+            "margin": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Welcome to Rocket Elevators!
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontSize": 20,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Insert your email to login:
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        autoCapitalize="none"
+        onChangeText={[Function]}
+        placeholder="use: admin@example.com(for testing)"
+        rejectResponderTermination={true}
+        required={true}
+        style={
+          Object {
+            "borderColor": "#b71c1c",
+            "borderWidth": 2,
+            "color": "white",
+            "margin": 10,
+            "marginBottom": 30,
+            "padding": 8,
+            "width": 200,
+          }
+        }
+        underlineColorAndroid="transparent"
+        value=""
+      />
+      <View
+        accessible={true}
+        focusable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#01579b",
+            "borderRadius": 100,
+            "opacity": 1,
+            "paddingBottom": 7,
+            "paddingLeft": 15,
+            "paddingRight": 15,
+            "paddingTop": 7,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "color": "#fff",
+              "fontSize": 20,
+            }
+          }
+        >
+          Enter
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
