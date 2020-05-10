@@ -3,7 +3,7 @@ import { View, Text, Image, ImageBackground, TouchableOpacity } from 'react-nati
 import logo from '../assets/R2.png';
 import axios from 'axios';
 
-var myBackground = require('../assets/activestatus.jpeg');
+var myBackground = require('../assets/yellow-min.jpg');
 
 
 const ActiveStatus = (props) => {
