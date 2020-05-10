@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1589079662097" clover="3.2.0">
-  <project timestamp="1589079662097" name="All files">
-    <metrics statements="77" coveredstatements="16" conditionals="26" coveredconditionals="0" methods="32" coveredmethods="0" elements="135" coveredelements="16" complexity="0" loc="77" ncloc="77" packages="2" files="8" classes="8"/>
+<coverage generated="1589084059094" clover="3.2.0">
+  <project timestamp="1589084059094" name="All files">
+    <metrics statements="78" coveredstatements="17" conditionals="26" coveredconditionals="0" methods="32" coveredmethods="0" elements="136" coveredelements="17" complexity="0" loc="78" ncloc="78" packages="2" files="9" classes="9"/>
     <package name="assets">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="R2.png" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/R2.png">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="4" type="stmt"/>
       </file>
-      <file name="activestatus.jpeg" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/activestatus.jpeg">
+      <file name="green-min.jpg" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/green-min.jpg">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
       </file>
-      <file name="home.jpeg" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/home.jpeg">
+      <file name="mdl-2-min.jpg" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/mdl-2-min.jpg">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="2" type="stmt"/>
+        <line num="1" count="1" type="stmt"/>
       </file>
-      <file name="inactivestatus.jpeg" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/inactivestatus.jpeg">
+      <file name="mdl-min.jpg" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/mdl-min.jpg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="yellow-min.jpg" path="/Users/jonasbekkali/Documents/Rocket_Elevators_Mobile/assets/yellow-min.jpg">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
       </file>

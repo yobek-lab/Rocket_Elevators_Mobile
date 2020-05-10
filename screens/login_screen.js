@@ -4,7 +4,7 @@ import logo from '../assets/R2.png';
 import axios from 'axios';
 var myBackground = require('../assets/mdl-2-min.jpg');
 
-const Startup = (props) => {
+const Login = (props) => {
 
 
     const [email, getEmail] = useState('');
@@ -124,4 +124,4 @@ const styles = {
         color: "white",
     }
 }
-export default Startup;
+export default Login;
