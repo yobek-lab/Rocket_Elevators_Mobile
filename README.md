@@ -6,6 +6,7 @@ The Mobile App:
   -  Once an elevator is clicked, it brings us to a screen (the status screen) where you can set the status back to     active/inactive.
   
  * URL : https://expo.io/@yoke/rocket_elevator_react
+ * The presentation video link: https://drive.google.com/drive/folders/1cCy7mpbTDKN2xQAiNfzcmeF1oc6Zyaqq?usp=sharing
  - Or: Using VS Code + Expo clients on IOS and Android cellphones or emulators.
  - Command : Expo start
  Login :
