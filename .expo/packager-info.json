@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 17298,
-  "expoServerNgrokUrl": "https://hv-hyj.yoke.rocket-elevators-mobile.exp.direct",
-  "packagerNgrokUrl": "https://packager.hv-hyj.yoke.rocket-elevators-mobile.exp.direct",
-  "ngrokPid": 17324,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }
