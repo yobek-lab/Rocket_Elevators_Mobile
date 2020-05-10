@@ -1,6 +1,6 @@
 # Odyssey Week 13 : Rocket_Elevators_Mobile
 
-
+The Mobile App:
   -  Login screen where you can input a valid email to login into the app onto the home screen.
   -  Home screen with lists of all non-active and active elevators  : clickable and differentiable.
   -  Once an elevator is clicked, it brings us to a screen (the status screen) where you can set the status back to     active/inactive.
