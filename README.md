@@ -4,10 +4,10 @@ The Mobile App:
   -  Login screen where you can input a valid email to login into the app onto the home screen.
   -  Home screen with lists of all non-active and active elevators  : clickable and differentiable.
   -  Once an elevator is clicked, it brings us to a screen (the status screen) where you can set the status back to     active/inactive.
-
-
- * URL : https://expo.io/@yoke/rocket_elevator_react
   
+ * URL : https://expo.io/@yoke/rocket_elevator_react
+ - Or: Using VS Code + Expo clients on IOS and Android cellphones or emulators.
+ - Command : Expo start
  Login :
  - Click the link above to test the project by downloading it with expo or "open project in browser"
 
