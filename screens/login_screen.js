@@ -22,7 +22,7 @@ const Login = (props) => {
             .catch(function (error) {
                 
                 console.log(`This ${employee_email} is incorrect.`);
-                alert(`${employee_email} is unavailable. If you need any assistance, please call the tech department. Thank you!`);
+                alert(`${employee_email} is unavailable, please insert a valide email. Thank you!`);
             })
             .then(function () {
              
