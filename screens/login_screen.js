@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { ImageBackground, Image, Text, View, TextInput, TouchableOpacity } from 'react-native';
 import logo from '../assets/R2.png';
 import axios from 'axios';
-var myBackground = require('../assets/home.jpeg');
+var myBackground = require('../assets/vision-min.jpg');
 
 const Startup = (props) => {
 

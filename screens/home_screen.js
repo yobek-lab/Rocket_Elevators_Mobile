@@ -1,13 +1,13 @@
 import React from 'react';
 import { ImageBackground, Image, Text, View, TextInput, TouchableOpacity } from 'react-native';
 import logo from '../assets/R2.png';
-var myBackground = require('../assets/home.jpeg');
+var myBackground = require('../assets/mdl-min.jpg');
 
 const HomePage = (props) => {
 
     return (
         <View style={styles.container} >
-            
+            <ImageBackground source={myBackground} style={styles.image}>
             <View style={styles.viewStyle}>
                 <Image source={logo} style={styles.logo} />
                 <Text>Welcome!</Text>
@@ -30,9 +30,9 @@ const HomePage = (props) => {
                     style={styles.button3}>
                     <Text style={styles.buttonText}>LOG OUT</Text>
                 </TouchableOpacity>
-
+                
             </View>
-          
+            </ImageBackground>
         </View >
     )
 }
@@ -41,6 +41,11 @@ const styles = {
     container: {
         flex: 1,
         //marginTop: Platform.OS === "android" ? 24 : 0
+    },
+    image: {
+        flex: 1,
+        resizeMode: "cover",
+        justifyContent: "center"
     },
     viewStyle: {
         flex: 1,
