@@ -98,7 +98,7 @@ const ActiveStatus = (props) => {
 const styles = {
     container: {
         flex: 1,
-        marginTop: Platform.OS === "android" ? 24 : 0
+       // marginTop: Platform.OS === "android" ? 24 : 0
     },
     logo: {
         width: 305,
